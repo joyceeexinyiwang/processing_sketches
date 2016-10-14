@@ -1,4 +1,3 @@
-import processing.dxf.*;
 
 PImage img;
 int smallPoint, largePoint;
